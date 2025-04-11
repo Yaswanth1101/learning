@@ -1,2 +1,3 @@
 # learning
-This is my learning sesion
+This is my learning sesion.
+Author - M Yaswanth
